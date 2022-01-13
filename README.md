@@ -15,8 +15,7 @@
   <p>
     - Create an app <br/>
     - Add Redirect URIs (e.g: "http://localhost:3000/api/auth/callback/spotify") <br/>
-    - Get Client ID, Client Secret <br/>
-      and store in .env file <br/>
+    - Get Client ID, Client Secret and store in .env file <br/>
       (NEXTAUTH_URL=http://localhost:3000,
       NEXT_PUBLIC_CLIENT_SECRET,
       NEXT_PUBLIC_CLIENT_ID,
@@ -31,8 +30,8 @@
 
 <div>
   <p>
-   - /login
-   - /
+   - /login <br/>
+   - / <br/>
    - /api/auth/[...nextauth].js (to redirect to spotify login page <br/>
      and get back an authentication token)
   </p>
