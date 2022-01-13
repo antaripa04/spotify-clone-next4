@@ -78,7 +78,27 @@ Authentication Through Spotify:
     background: #F1DEDE;
     border-radius:10px;
     font-size:0.85rem;
-    font-weight:600;">Official Spotify Authorization Doc</a> 
+    font-weight:600;">Official Spotify Authorization Doc</a>
+    
+    <br/>
+  <b>Next Auth:</b>
+  <a href="https://next-auth.js.org/getting-started/example" target="_blank" rel="noopener noreferrer"
+    style="padding:0.35rem 0.7rem;
+    color: black;
+    background: #F1DEDE;
+    border-radius:10px;
+    font-size:0.85rem;
+    font-weight:600;">Official NextAuth.js</a>
+    
+    <br/>
+  <b>Next Auth Rotation:</b>
+  <a href="https://next-auth.js.org/tutorials/refresh-token-rotation" target="_blank" rel="noopener noreferrer"
+    style="padding:0.35rem 0.7rem;
+    color: black;
+    background: #F1DEDE;
+    border-radius:10px;
+    font-size:0.85rem;
+    font-weight:600;">Official Refresh Token Rotation</a>
 </div>
 
 ---
