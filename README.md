@@ -70,7 +70,7 @@ Authentication Through Spotify:
     font-size:0.85rem;
     font-weight:600;">Official Spotify Web Api Doc</a> 
   
-  <br/>
+  
   <b>Spotify Authentication Guide:</b>
   <a href="https://developer.spotify.com/documentation/general/guides/authorization/" target="_blank" rel="noopener noreferrer"
     style="padding:0.35rem 0.7rem;
@@ -80,7 +80,7 @@ Authentication Through Spotify:
     font-size:0.85rem;
     font-weight:600;">Official Spotify Authorization Doc</a>
     
-    <br/>
+    
   <b>Next Auth:</b>
   <a href="https://next-auth.js.org/getting-started/example" target="_blank" rel="noopener noreferrer"
     style="padding:0.35rem 0.7rem;
